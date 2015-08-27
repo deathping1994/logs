@@ -181,3 +181,13 @@ hj: command not found
 exit
 
 Script done on Thursday 27 August 2015 01:16:40 PM IST
+Script started on Thursday 27 August 2015 01:18:33 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ thd
+The program 'thd' is currently not installed. You can install it by typing:
+sudo apt-get install triggerhappy
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ j
+j: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+
+Script done on Thursday 27 August 2015 01:18:49 PM IST
