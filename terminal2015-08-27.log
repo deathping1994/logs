@@ -282,3 +282,54 @@ bash: cd: ...: No such file or directory
 exit
 
 Script done on Thursday 27 August 2015 01:27:01 PM IST
+Script started on Thursday 27 August 2015 01:27:14 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ hr[C[C[K[Khello
+The program 'hello' can be found in the following packages:
+ * hello
+ * hello-debhelper
+Try: sudo apt-get install <selected package>
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ hel;l[K[K[K[K[Kjsdhv
+jsdhv: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ jhdsvb
+jhdsvb: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+
+Script done on Thursday 27 August 2015 01:27:32 PM IST
+Script started on Thursday 27 August 2015 01:28:11 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ mds
+No command 'mds' found, did you mean:
+ Command 'dds' from package 'dds' (universe)
+ Command 'sds' from package 'simh' (universe)
+ Command 'mdu' from package 'mtools' (main)
+ Command 'mcs' from package 'mono-mcs' (main)
+ Command 'xmds' from package 'xmds' (universe)
+ Command 'mvs' from package 'libwww-mediawiki-client-perl' (universe)
+mds: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ jhxc
+jhxc: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ kkhhsdbmc
+kkhhsdbmc: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ jhdscx
+jhdscx: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+
+Script done on Thursday 27 August 2015 01:28:17 PM IST
+Script started on Thursday 27 August 2015 01:30:04 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ dhs
+No command 'dhs' found, did you mean:
+ Command 'dcs' from package 'drbl' (universe)
+ Command 'dds' from package 'dds' (universe)
+ Command 'dh' from package 'debhelper' (main)
+ Command 'dsh' from package 'dsh' (universe)
+dhs: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ jac
+No command 'jac' found, but there are 20 similar ones
+jac: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ hxjbc
+hxjbc: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+
+Script done on Thursday 27 August 2015 01:30:09 PM IST
