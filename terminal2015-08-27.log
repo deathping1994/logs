@@ -205,3 +205,80 @@ gj: command not found
 exit
 
 Script done on Thursday 27 August 2015 01:22:52 PM IST
+Script started on Thursday 27 August 2015 01:23:48 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ cd logs
+]0;gaurav@gaurav-Lenovo-B480: ~/logsgaurav@gaurav-Lenovo-B480:~/logs$ git log
+[?1h=[33mcommit bd0aed1bfe9eec489396ece35b27d3b4d0298956[m[m
+Author: Gaurav <deathping1994@gmail.com>[m
+Date:   Thu Aug 27 13:22:52 2015 +0530[m
+[m
+    Saving logs for 2015-08-27[m
+[m
+[33mcommit d2e236f179de5445c2edda7758bfdf5f8ea0281f[m[m
+Author: Gaurav <deathping1994@gmail.com>[m
+Date:   Thu Aug 27 13:18:49 2015 +0530[m
+[m
+    Saving logs for 2015-08-27[m
+[m
+[33mcommit 04fbc123b45f04af036cb4779308c4f5f181b088[m[m
+Author: Gaurav <deathping1994@gmail.com>[m
+Date:   Thu Aug 27 13:16:40 2015 +0530[m
+[m
+    Saving logs for 2015-08-27[m
+[m
+[33mcommit d1bd5258567d63bbfb549940f3f09b1f50fde98a[m[m
+Author: Gaurav <deathping1994@gmail.com>[m
+Date:   Thu Aug 27 13:14:56 2015 +0530[m
+[m
+    Saving logs for 2015-08-27[m
+:[K[K[m
+[33mcommit 1ba0278bd4e4181ed4abc983f89860918fdcaa51[m[m
+Author: Gaurav <deathping1994@gmail.com>[m
+Date:   Thu Aug 27 13:14:25 2015 +0530[m
+[m
+    Saving logs for 2015-08-27[m
+[m
+[33mcommit 518a54fe701e62b74ee8dd3ea5c2ad991f265706[m[m
+Author: Gaurav <deathping1994@gmail.com>[m
+Date:   Thu Aug 27 13:13:15 2015 +0530[m
+[m
+    Saving logs for 2015-08-27[m
+[m
+[33mcommit 5c9f3a6bd95e9bf1ee7445a98ec29eb38da11c4c[m[m
+Author: Gaurav <deathping1994@gmail.com>[m
+Date:   Thu Aug 27 13:05:17 2015 +0530[m
+[m
+    Saving logs for 2015-08-27[m
+[m
+[33mcommit b79f369235a89b7ab7df4ccfbef29c7dcbb03b9f[m[m
+Author: Gaurav <deathping1994@gmail.com>[m
+Date:   Thu Aug 27 12:59:02 2015 +0530[m
+[m
+:[K[K    Saving logs for 2015-08-27[m
+[m
+[33mcommit aa1495195c18105fc9ab819035434436b1e81650[m[m
+Author: Gaurav <deathping1994@gmail.com>[m
+Date:   Thu Aug 27 12:56:58 2015 +0530[m
+[m
+    Saving logs for 2015-08-27[m
+[m
+[33mcommit f59c26c25e19ef7e8b68d8f5683322c4f3c7e94a[m[m
+Author: Gaurav Shukla <deathping1994@gmail.com>[m
+Date:   Fri Aug 28 02:48:33 2015 +0530[m
+[m
+    Initial commit[m
+[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[24;1H[K:[K[K [KESCESC[KOO[KAA[K[HM    Saving logs for 2015-08-27[m
+[24;1H[K:[K[K [KESCESC[KOO[KAA[K[HM[m
+[24;1H[K:[K[K [KESCESC[KOO[KAA[K[HMDate:   Thu Aug 27 13:13:15 2015 +0530[m
+[24;1H[K:[K[K [KESCESC[KOO[KBB[KAuthor: Gaurav Shukla <deathping1994@gmail.com>[m
+:[K[K [KESCESC[KOO[KBB[KDate:   Fri Aug 28 02:48:33 2015 +0530[m
+:[K[K [KESCESC[KOO[KBB[K[m
+:[K[K [KESCESC[KOO[KBB[K    Initial commit[m
+[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>]0;gaurav@gaurav-Lenovo-B480: ~/logsgaurav@gaurav-Lenovo-B480:~/logs$ cd ...
+bash: cd: ...: No such file or directory
+]0;gaurav@gaurav-Lenovo-B480: ~/logsgaurav@gaurav-Lenovo-B480:~/logs$ cd ..
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+
+Script done on Thursday 27 August 2015 01:27:01 PM IST
