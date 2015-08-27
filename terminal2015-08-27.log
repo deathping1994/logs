@@ -373,3 +373,402 @@ gaurav@gaurav-Lenovo-B480:~$ exit
 exit
 
 Script done on Thursday 27 August 2015 01:36:39 PM IST
+Script started on Thursday 27 August 2015 01:48:38 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ smbclient -L jumbo -Uusername[C[C[1P -Uusername[1P -Uusername[1P -Uusername[1P -Uusername[1P -Uusernamep -Uusernamed -Uusernamec -Uusername. -Uusernamej -Uusernamei -Uusernamei -Uusernamet -Uusername
+Enter username's password: 
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+session setup failed: NT_STATUS_LOGON_FAILURE
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ smbclient -L pdc.jiit -Uusername[K[K[K[K[K[K[K[K[K[K[K
+Enter gaurav's password: 
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+session setup failed: NT_STATUS_LOGON_FAILURE
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ smbclient -L pdc.jiit[C -U 13103641
+Enter 13103641's password: 
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+session setup failed: NT_STATUS_LOGON_FAILURE
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ smbclient -L pdc.jiit -U 13103641[K[K[K[K[K[K[K[K13103646
+Enter 13103646's password: 
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Domain=[JIIT] OS=[Windows Server 2003 R2 3790 Service Pack 2] Server=[Windows Server 2003 R2 5.2]
+
+	Sharename       Type      Comment
+	---------       ----      -------
+	avadhesh        Disk      avadhesh
+	issei           Disk      
+	narendrayadav   Disk      narendrayadav
+	radheshyam      Disk      radheshyam
+	rajendralrc     Disk      rajendralrc
+	ratishsethi     Disk      ratishsethi
+	shilpigaur      Disk      shilpigaur
+	VIJAYKUMAR      Disk      VIJAYKUMAR
+	9401002         Disk      9401002
+	9402018         Disk      9402018
+	9408042         Disk      9408042
+	9101026         Disk      9101026
+	9102282         Disk      9102282
+	9103402         Disk      9103402
+	9103434         Disk      9103434
+	9103506         Disk      9103506
+	9104682         Disk      9104682
+	9104706         Disk      9104706
+	9104730         Disk      9104730
+	9501810         Disk      9501810
+	9501826         Disk      9501826
+	9503858         Disk      9503858
+	u5101075        Disk      u5101075
+	u51251W         Disk      u51251W
+	u51267W         Disk      u51267W
+	9502938         Disk      9502938
+	arindamdas      Disk      arindamdas
+	mahenderrawat   Disk      mahenderrawat
+	seemachauhan    Disk      seemachauhan
+	9101059         Disk      9101059
+	9102163         Disk      9102163
+	9102227         Disk      9102227
+	9103427         Disk      9103427
+	9104659         Disk      9104659
+	9104683         Disk      9104683
+	9104707         Disk      9104707
+	9104715         Disk      9104715
+	9501803         Disk      9501803
+	9501827         Disk      9501827
+	9503859         Disk      9503859
+	10311201        Disk      10311201
+	9103619         Disk      9103619
+	praveen1kumar   Disk      praveen1kumar
+	vijayyadav      Disk      vijayyadav
+	C$              Disk      Default share
+	dharmender      Disk      dharmender
+	iqbalahemad     Disk      iqbalahemad
+	kaushalyadav    Disk      kaushalyadav
+	mahendrasingh   Disk      mahendrasingh
+	omprakash       Disk      omprakash
+	9403024         Disk      9403024
+	9101024         Disk      9101024
+	9101048         Disk      9101048
+	9102156         Disk      9102156
+	9102280         Disk      9102280
+	9102304         Disk      9102304
+	9103504         Disk      9103504
+	9104680         Disk      9104680
+	9104692         Disk      9104692
+	9104716         Disk      9104716
+	9501824         Disk      9501824
+	9502928         Disk      9502928
+	u5101089        Disk      u5101089
+	u5103545        Disk      u5103545
+	shwetagupta     Disk      
+	baleshwar       Disk      
+	fujailusmani    Disk      fujailusmani
+	shwetasinha     Disk      shwetasinha
+	vishalvsingh    Disk      vishalvsingh
+	9401001         Disk      9401001
+	9403025         Disk      9403025
+	9408041         Disk      9408041
+	9101025         Disk      9101025
+	9102237         Disk      9102237
+	9103401         Disk      9103401
+	9103437         Disk      9103437
+	9103449         Disk      9103449
+	9103481         Disk      9103481
+	9103505         Disk      9103505
+	9103533         Disk      9103533
+	9104681         Disk      9104681
+	9104693         Disk      9104693
+	9104705         Disk      9104705
+	9501801         Disk      9501801
+	9501813         Disk      9501813
+	9501825         Disk      9501825
+	9502929         Disk      9502929
+	9512009         Disk      9512009
+	u9609019        Disk      u9609019
+	u5101052        Disk      u5101052
+	u5102168        Disk      u5102168
+	u5103544        Disk      u5103544
+	u5104728        Disk      u5104728
+	sheeshpalsingh  Disk      
+	Multimedia Archives Disk      Multimedia Archives
+	brijeshbiswas   Disk      brijeshbiswas
+	hpsupport       Disk      hpsupport
+	kuldeepnegi     Disk      kuldeepnegi
+	rajeevdhyani    Disk      rajeevdhyani
+	rajeshkumar     Disk      rajeshkumar
+	9401006         Disk      
+	9410062         Disk      9410062
+	9101014         Disk      9101014
+	9101030         Disk      9101030
+	9102278         Disk      9102278
+	9103430         Disk      9103430
+	9103478         Disk      9103478
+	9103486         Disk      9103486
+	9103494         Disk      9103494
+	9103502         Disk      9103502
+	9103582         Disk      9103582
+	9104694         Disk      9104694
+	9501806         Disk      9501806
+	9501814         Disk      9501814
+	9501822         Disk      9501822
+	u5102255        Disk      u5102255
+	9501830         Disk      9501830
+	jiitlogo        Disk      
+	sunilyadav      Disk      sunilyadav
+	9401007         Disk      9401007
+	9403023         Disk      9403023
+	9410063         Disk      9410063
+	9101031         Disk      9101031
+	9102215         Disk      9102215
+	9102311         Disk      9102311
+	9104679         Disk      9104679
+	9104687         Disk      9104687
+	9104695         Disk      9104695
+	9104711         Disk      9104711
+	9104727         Disk      9104727
+	9501807         Disk      9501807
+	9501823         Disk      9501823
+	u5021G          Disk      u5021G
+	9501831         Disk      9501831
+	9909103432      Disk      9909103432
+	sonamshaheen    Disk      sonamshaheen
+	gulabsingh      Disk      
+	MKJHA           Disk      MKJHA
+	anilkumar       Disk      anilkumar
+	anitamarwaha    Disk      anitamarwaha
+	kailashchandra  Disk      kailashchandra
+	pratibhasrivastava Disk      pratibhasrivastava
+	shashikantajena Disk      shashikantajena
+	9401004         Disk      9401004
+	9102152         Disk      9102152
+	9103468         Disk      9103468
+	9103484         Disk      9103484
+	9103548         Disk      9103548
+	9104696         Disk      9104696
+	9104712         Disk      9104712
+	9501804         Disk      9501804
+	9501816         Disk      9501816
+	9501820         Disk      9501820
+	9502908         Disk      9502908
+	u51236W         Disk      u51236W
+	9501832         Disk      9501832
+	viveksingh      Disk      viveksingh
+	ajittomar       Disk      ajit tomar
+	sanjaykataria   Disk      
+	anuragsrivastava Disk      
+	pcmalhotra      Disk      
+	Dean's Folder workspace130209 Disk      Dean's Folder workspace130209
+	KG Samuel       Disk      KG Samuel
+	9401005         Disk      9401005
+	9410061         Disk      9410061
+	9102165         Disk      9102165
+	9102285         Disk      9102285
+	9103469         Disk      9103469
+	9104669         Disk      9104669
+	9104697         Disk      9104697
+	9501805         Disk      9501805
+	9501821         Disk      9501821
+	9502909         Disk      9502909
+	u5102244        Disk      u5102244
+	9102349         Disk      9102349
+	virendarshahi   Disk      virendarshahi
+	9501833         Disk      
+	rizwanahmad     Disk      
+	vandanasingh    Disk      
+	F$              Disk      Default share
+	bhupalrawat     Disk      
+	chandrashekhar  Disk      chandrashekhar
+	deepakgupta     Disk      deepakgupta
+	neerajsharma    Disk      neerajsharma
+	9101042         Disk      9101042
+	9103466         Disk      9103466
+	9501818         Disk      9501818
+	9502914         Disk      9502914
+	9502922         Disk      9502922
+	9502930         Disk      9502930
+	9503866         Disk      9503866
+	9512010         Disk      9512010
+	u5103411        Disk      u5103411
+	u5103483        Disk      u5103483
+	u5103579        Disk      u5103579
+	u51551W         Disk      u51551W
+	raviprakashdubey Disk      raviprakash dubey
+	IPC$            IPC       Remote IPC
+	amitdhawan      Disk      amitdhawan
+	poonamgupta     Disk      poonamgupta
+	rajbirsingh     Disk      rajbirsingh
+	sachinkumar     Disk      sachin kumar
+	sauveersingh    Disk      sauveersingh
+	9103571         Disk      9103571
+	9501819         Disk      9501819
+	9502907         Disk      9502907
+	9502915         Disk      9502915
+	9502923         Disk      9502923
+	9503851         Disk      9503851
+	9503867         Disk      9503867
+	9503955         Disk      9503955
+	u5101082        Disk      u5101082
+	u5102154        Disk      u5102154
+	ECE_Departmental Disk      ECE_Departmental
+	10609185        Disk      10609185
+	10303401        Disk      10303401
+	G$              Disk      Default share
+	Dean's Folder for Academic Programmes Disk      Dean's Folder for Academic Programmes
+	discipline      Disk      
+	priyankachakrabarti Disk      priyankachakrabarti
+	rajendrasingh   Disk      rajendrasingh
+	sjssoni         Disk      sjssoni
+	9101064         Disk      9101064
+	9104728         Disk      9104728
+	9501808         Disk      9501808
+	9502904         Disk      9502904
+	9502916         Disk      9502916
+	9502932         Disk      9502932
+	9503852         Disk      9503852
+	u9609058        Disk      u9609058
+	u5101025        Disk      u5101025
+	u5103533        Disk      u5103533
+	u51606W         Disk      u51606W
+	9503956         Disk      9503956
+	ashamoncy       Disk      asha moncy
+	shivajityagi    Disk      shivaji tyagi
+	rajusangal      Disk      
+	Rameshchandra   Disk      Ramesh Chandra
+	ADMIN$          Disk      Remote Admin
+	AkhileshSachan  Disk      AkhileshSachan
+	deepatiwari     Disk      deepa tiwari
+	kkrohatgi       Disk      kkrohatgi
+	manojsharma     Disk      manojsharma
+	tkmishra        Disk      tkmishra
+	9409053         Disk      9409053
+	9102265         Disk      9102265
+	9103409         Disk      9103409
+	9103465         Disk      9103465
+	9103529         Disk      9103529
+	9104665         Disk      9104665
+	9104689         Disk      9104689
+	9104729         Disk      9104729
+	9501809         Disk      9501809
+	9502905         Disk      9502905
+	9502917         Disk      9502917
+	9502921         Disk      9502921
+	9503853         Disk      9503853
+	u9609083        Disk      u9609083
+	u5034G          Disk      u5034G
+	u5101080        Disk      u5101080
+	u5102156        Disk      u5102156
+	u5102280        Disk      u5102280
+	u5103424        Disk      u5103424
+	10303427        Disk      10303427
+	10302171        Disk      10302171
+	ramlal          Disk      ram lal
+	sujatabasu      Disk      sujatabasu
+	dileepkumar     Disk      dileepkumar
+	ravindersharma  Disk      ravindersharma
+	9409054         Disk      9409054
+	9101062         Disk      9101062
+	9103446         Disk      9103446
+	9103462         Disk      9103462
+	9104662         Disk      9104662
+	9502926         Disk      9502926
+	9502934         Disk      9502934
+	9503854         Disk      9503854
+	9503862         Disk      9503862
+	u5102175        Disk      u5102175
+	u5102303        Disk      u5102303
+	u51029W         Disk      u51029W
+	10609112        Disk      10609112
+	10303432        Disk      10303432
+	10305180        Disk      10305180
+	9103622         Disk      9103622
+	9503870         Disk      9503870
+	9104774         Disk      9104774
+	MathewVarghese  Disk      
+	utilities for all users Disk      utilities for all users
+	jatashankargupta Disk      jatashankargupta
+	jyotijha        Disk      jyotijha
+	manojkumar      Disk      manojkumar
+	vandanayadav    Disk      vandanayadav
+	9409055         Disk      9409055
+	9102191         Disk      9102191
+	9102239         Disk      9102239
+	9104663         Disk      9104663
+	9502903         Disk      9502903
+	9502911         Disk      9502911
+	9502927         Disk      9502927
+	9502935         Disk      9502935
+	9503855         Disk      9503855
+	9503863         Disk      9503863
+	u5101014        Disk      u5101014
+	u5102174        Disk      u5102174
+	u5103414        Disk      u5103414
+	deviyakumar     Disk      
+	10302153        Disk      10302153
+	10302177        Disk      10302177
+	9102351         Disk      9102351
+	praveenkumar    Disk      praveenkumar
+	SYSVOL          Disk      Logon server share 
+	dineshsukumaran Disk      dineshsukumaran
+	hemantsingh     Disk      hemantsingh
+	mohitmudgal     Disk      mohitmudgal
+	parasgaur       Disk      parasgaur
+	9501828         Disk      9501828
+	9502912         Disk      9502912
+	9502924         Disk      9502924
+	9503856         Disk      9503856
+	9503860         Disk      9503860
+	9503952         Disk      9503952
+	u9609086        Disk      u9609086
+	u9609094        Disk      u9609094
+	u5101005        Disk      u5101005
+	u5101085        Disk      u5101085
+	u5102165        Disk      u5102165
+	u5102337        Disk      u5102337
+	u51268W         Disk      u51268W
+	u51552W         Disk      u51552W
+	9502936         Disk      9502936
+	9102340         Disk      9102340
+	10609134        Disk      10609134
+	NETLOGON        Disk      Logon server share 
+	admin           Disk      admin
+	rajkumarsingh   Disk      rajkumarsingh
+	9402017         Disk      9402017
+	9101029         Disk      9101029
+	9103473         Disk      9103473
+	9502901         Disk      9502901
+	9503857         Disk      9503857
+	9503861         Disk      9503861
+	9503953         Disk      9503953
+	u5101084        Disk      u5101084
+	9502937         Disk      9502937
+	10609191        Disk      10609191
+	10305183        Disk      10305183
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Unable to create directory /var/run/samba for file gencache_notrans.tdb. Error was Permission denied
+tdb(__NULL__): tdb_open_ex: called with name == NULL
+Connection to pdc.jiit failed (Error NT_STATUS_RESOURCE_NAME_NOT_FOUND)
+NetBIOS over TCP disabled -- no workgroup available
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+
+Script done on Thursday 27 August 2015 02:10:52 PM IST
