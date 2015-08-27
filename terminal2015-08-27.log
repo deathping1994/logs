@@ -360,3 +360,16 @@ Script started on Thursday 27 August 2015 01:33:44 PM IST
 exit
 
 Script done on Thursday 27 August 2015 01:33:48 PM IST
+Script started on Thursday 27 August 2015 01:34:44 PM IST
+gaurav@gaurav-Lenovo-B480:~$ chsh --help
+Usage: chsh [options] [LOGIN]
+
+Options:
+  -h, --help                    display this help message and exit
+  -R, --root CHROOT_DIR         directory to chroot into
+  -s, --shell SHELL             new login shell for the user account
+
+gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+
+Script done on Thursday 27 August 2015 01:36:39 PM IST
