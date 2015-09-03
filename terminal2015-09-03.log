@@ -3,3 +3,40 @@ Script started on Thursday 03 September 2015 04:25:57 AM IST
 exit
 
 Script done on Thursday 03 September 2015 04:26:06 AM IST
+Script started on Thursday 03 September 2015 01:14:13 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ cd pycharm-community-4.5.4/
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-community-4.5.4gaurav@gaurav-Lenovo-B480:~/pycharm-community-4.5.4$ cd bin
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-community-4.5.4/bingaurav@gaurav-Lenovo-B480:~/pycharm-community-4.5.4/bin$ ls
+[0m[01;32mfsnotifier[0m       [01;32minspect.sh[0m           [01;35mpycharm.png[0m
+[01;32mfsnotifier64[0m     log.xml              [01;32mpycharm.sh[0m
+idea.properties  pycharm64.vmoptions  pycharm.vmoptions
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-community-4.5.4/bingaurav@gaurav-Lenovo-B480:~/pycharm-community-4.5.4/bin$ ll
+total 112
+drwxrwxr-x 2 gaurav gaurav  4096 Sep  3 13:14 [0m[01;34m.[0m/
+drwxrwxr-x 8 gaurav gaurav  4096 Sep  3 13:14 [01;34m..[0m/
+-rwxr-xr-x 1 gaurav gaurav 23072 Aug 28 13:21 [01;32mfsnotifier[0m*
+-rwxr-xr-x 1 gaurav gaurav 29648 Aug 28 13:21 [01;32mfsnotifier64[0m*
+-rw-r--r-- 1 gaurav gaurav  6876 Aug 28 13:22 idea.properties
+-rwxr-xr-x 1 gaurav gaurav   272 Aug 28 13:21 [01;32minspect.sh[0m*
+-rw-r--r-- 1 gaurav gaurav  2275 Aug 28 13:21 log.xml
+-rw-r--r-- 1 gaurav gaurav   225 Aug 28 13:21 pycharm64.vmoptions
+-rw-r--r-- 1 gaurav gaurav 13833 Aug 28 13:21 [01;35mpycharm.png[0m
+-rwxr-xr-x 1 gaurav gaurav  6213 Aug 28 13:21 [01;32mpycharm.sh[0m*
+-rw-r--r-- 1 gaurav gaurav   233 Aug 28 13:21 pycharm.vmoptions
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-community-4.5.4/bingaurav@gaurav-Lenovo-B480:~/pycharm-community-4.5.4/bin$ /.pych[C[1Ppych[C./pych[C[C[C[C[Carm.sh 
+
+(java:3803): Gtk-WARNING **: Theme directory place/72 of theme MBuntu-OSX has no size field
+
+[ 108808]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 0 
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-community-4.5.4/bingaurav@gaurav-Lenovo-B480:~/pycharm-community-4.5.4/bin$ ./pycharm.sh 
+[ 123516]   WARN - .skeletons.PySkeletonRefresher - Some skeletons failed to generate 
+[ 123517]   WARN - .skeletons.PySkeletonRefresher - 1 module failed in 1 interpreter. <a href="#">Details...</a> 
+[ 123517]   WARN - .skeletons.PySkeletonRefresher - Failed modules 
+[ 123517]   WARN - .skeletons.PySkeletonRefresher - PyKate4.kate 
+exit
+^C[13446497]   WARN - api.vfs.impl.local.FileWatcher - Watcher terminated with exit code 130 
+
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-community-4.5.4/bingaurav@gaurav-Lenovo-B480:~/pycharm-community-4.5.4/bin$ exit
+exit
+
+Script done on Thursday 03 September 2015 05:02:38 PM IST
