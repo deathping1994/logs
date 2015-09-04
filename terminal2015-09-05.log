@@ -165,3 +165,20 @@ E: Unable to correct problems, you have held broken packages.
 exit
 
 Script done on Saturday 05 September 2015 12:38:57 AM IST
+Script started on Saturday 05 September 2015 12:57:37 AM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ dpkg --list | grep pycharm
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ dpkg --list | grep pycharm[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd ~/pycharm-4.5.4/
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-4.5.4gaurav@gaurav-Lenovo-B480:~/pycharm-4.5.4$ cd bib[Kn
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-4.5.4/bingaurav@gaurav-Lenovo-B480:~/pycharm-4.5.4/bin$ ls
+[0m[01;32mfsnotifier[0m       [01;32minspect.sh[0m              log.xml              [01;32mpycharm.sh[0m
+[01;32mfsnotifier64[0m     libyjpagent-linux64.so  pycharm64.vmoptions  pycharm.vmoptions
+idea.properties  libyjpagent-linux.so    [01;35mpycharm.png[0m
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-4.5.4/bingaurav@gaurav-Lenovo-B480:~/pycharm-4.5.4/bin$ ./pycharm.sh 
+Sep 05, 2015 1:04:58 AM java.util.prefs.FileSystemPreferences$6 run
+WARNING: Prefs file removed in background /home/gaurav/.java/.userPrefs/prefs.xml
+[  35022]   WARN - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+^C
+]0;gaurav@gaurav-Lenovo-B480: ~/pycharm-4.5.4/bingaurav@gaurav-Lenovo-B480:~/pycharm-4.5.4/bin$ exit
+exit
+
+Script done on Saturday 05 September 2015 01:07:11 AM IST
