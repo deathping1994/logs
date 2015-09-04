@@ -182,3 +182,259 @@ WARNING: Prefs file removed in background /home/gaurav/.java/.userPrefs/prefs.xm
 exit
 
 Script done on Saturday 05 September 2015 01:07:11 AM IST
+Script started on Saturday 05 September 2015 01:22:26 AM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ sudo rm /usr/share/applications,[K/[CPyCharm Cyberoam-Bruute/[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[KC[K Community E dition
+[sudo] password for gaurav: 
+rm: cannot remove ‘/usr/share/applications/PyCharm’: No such file or directory
+rm: cannot remove ‘Community’: No such file or directory
+rm: cannot remove ‘Edition’: No such file or directory
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ sudo rm /usr/share/applications/PyCharm Community Eddition[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"/usr/share/applications/PyCharm Community Edition[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C"
+rm: cannot remove ‘/usr/share/applications/PyCharm Community Edition’: No such file or directory
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ sudo rm "/usr/share/applications/PyCharm Community EEdition"[C[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd /usr/share/applications,[C[K
+]0;gaurav@gaurav-Lenovo-B480: /usr/share/applicationsgaurav@gaurav-Lenovo-B480:/usr/share/applications$ ls -l[K[K[K[K[Kll
+total 828
+drwxr-xr-x   3 root root 12288 Sep  5 01:06 [0m[01;34m.[0m/
+drwxr-xr-x 349 root root 12288 Sep  4 21:11 [01;34m..[0m/
+-rw-r--r--   1 root root   384 Jan 29  2015 activity-log-manager.desktop
+-rw-r--r--   1 root root   291 Aug 12 21:34 apport-gtk.desktop
+-rw-r--r--   1 root root   277 Aug 12 21:34 apport-kde-mime.desktop
+-rw-r--r--   1 root root   125 Dec 11  2013 apturl.desktop
+-rw-r--r--   1 root root  8819 Sep  4 21:12 bamf-2.index
+-rw-r--r--   1 root root   461 Mar 11  2014 baobab.desktop
+-rw-r--r--   1 root root   253 Apr 10  2014 blueman-manager.desktop
+-rw-r--r--   1 root root   397 Jan 29  2015 bluetooth-sendto.desktop
+-rw-r--r--   1 root root   408 Jan 29  2015 bluetooth-wizard.desktop
+-rw-r--r--   1 root root  1278 Dec 17  2013 brasero.desktop
+-rw-r--r--   1 root root   530 Dec 17  2013 brasero-nautilus.desktop
+-rw-r--r--   1 root root   322 Apr  9  2014 checkbox-gui.desktop
+-rw-r--r--   1 root root   451 Jan 15  2014 cheese.desktop
+-rw-r--r--   1 root root 12591 Jul 28 23:58 chromium-browser.desktop
+-rw-r--r--   1 root root   245 Jan 16  2014 CMake.desktop
+-rw-r--r--   1 root root   299 Jan 27  2014 codeblocks.desktop
+-rw-r--r--   1 root root   394 Mar 13 23:07 compiz.desktop
+-rw-r--r--   1 root root   333 Mar 16  2014 credentials-preferences.desktop
+-rw-r--r--   1 root root  1917 Oct 29  2013 debian-uxterm.desktop
+-rw-r--r--   1 root root  1914 Oct 29  2013 debian-xterm.desktop
+lrwxrwxrwx   1 root root    24 Aug  1 23:48 [01;36mdefaults.list[0m -> /etc/gnome/defaults.list
+-rw-r--r--   1 root root  4970 Apr  4  2014 deja-dup.desktop
+-rw-r--r--   1 root root   614 Apr  4  2014 deja-dup-preferences.desktop
+-rw-r--r--   1 root root  2720 Nov 20  2013 docky.desktop
+-rw-r--r--   1 root root   921 May  7 02:38 empathy.desktop
+-rw-r--r--   1 root root   857 Mar 11  2014 eog.desktop
+-rw-r--r--   1 root root   894 Mar 12 04:26 evince.desktop
+-rw-r--r--   1 root root   873 Mar 12 04:26 evince-previewer.desktop
+-rw-r--r--   1 root root   327 Oct 21  2014 evolution-data-server-uoa.desktop
+-rw-r--r--   1 root root  1744 Jul 15  2014 file-roller.desktop
+-rw-r--r--   1 root root   388 Sep 14  2013 filezilla.desktop
+-rw-r--r--   1 root root  9177 Aug 19 15:35 firefox.desktop
+-rw-r--r--   1 root root   443 Nov  4  2014 gcalctool.desktop
+-rw-r--r--   1 root root   215 Nov  5  2013 gcr-prompter.desktop
+-rw-r--r--   1 root root   712 Nov  5  2013 gcr-viewer.desktop
+-rw-r--r--   1 root root   767 Mar 27  2014 gedit.desktop
+-rw-r--r--   1 root root   420 Mar 14  2013 gkbd-keyboard-display.desktop
+-rw-r--r--   1 root root   348 Oct  2  2012 gksu.desktop
+-rw-r--r--   1 root root   252 Dec  4  2013 gnome-contacts.desktop
+-rw-r--r--   1 root root   673 Apr  4  2014 gnome-deja-dup-panel.desktop
+-rw-r--r--   1 root root   313 Apr 10  2014 gnome-disk-image-mounter.desktop
+-rw-r--r--   1 root root   374 Apr 10  2014 gnome-disk-image-writer.desktop
+-rw-r--r--   1 root root   399 Apr 10  2014 gnome-disks.desktop
+-rw-r--r--   1 root root   568 May 28  2013 gnome-font-viewer.desktop
+-rw-r--r--   1 root root   514 Feb  7  2014 gnome-power-statistics.desktop
+-rw-r--r--   1 root root   785 Jan 16  2014 gnome-screenshot.desktop
+-rw-r--r--   1 root root   437 Jun 20  2014 gnome-sudoku.desktop
+-rw-r--r--   1 root root   476 Jun 24  2013 gnome-system-log.desktop
+-rw-r--r--   1 root root   531 Nov  5  2013 gnome-system-monitor.desktop
+-rw-r--r--   1 root root   538 Nov  5  2013 gnome-system-monitor-kde.desktop
+-rw-r--r--   1 root root   560 Dec 16  2013 gnome-terminal.desktop
+-rw-r--r--   1 root root   413 Sep 28  2012 gnome-user-share-properties.desktop
+-rw-r--r--   1 root root   392 Dec 17  2013 gnomine.desktop
+-rw-r--r--   1 root root   311 Mar  5  2014 gparted.desktop
+-rw-r--r--   1 root root   402 Jan 15  2014 gucharmap.desktop
+-rw-r--r--   1 root root   224 Apr  3  2014 hardinfo.desktop
+-rw-r--r--   1 root root   423 Feb 19  2014 hplj1020.desktop
+-rw-r--r--   1 root root   477 Feb 27  2014 ibus-setup-bopomofo.desktop
+-rw-r--r--   1 root root   281 Mar 27  2014 ibus-setup.desktop
+-rw-r--r--   1 root root   456 Feb 27  2014 ibus-setup-pinyin.desktop
+-rw-r--r--   1 root root   871 Jan  9  2014 im-config.desktop
+-rw-r--r--   1 root root   235 Oct  5  2012 JB-controlpanel-jdk8.desktop
+-rw-r--r--   1 root root   283 Oct  5  2012 JB-java-jdk8.desktop
+-rw-r--r--   1 root root   264 Oct  5  2012 JB-javaws-jdk8.desktop
+-rw-r--r--   1 root root   239 Mar 19  2014 JB-jconsole-jdk8.desktop
+-rw-r--r--   1 root root   244 Oct  5  2012 JB-jvisualvm-jdk8.desktop
+-rw-r--r--   1 root root   189 Mar 19  2014 JB-mission-control-jdk8.desktop
+-rw-r--r--   1 root root   215 Oct  5  2012 JB-policytool-jdk8.desktop
+-rw-r--r--   1 root root   306 Sep  3 13:18 jetbrains-pycharm-ce.desktop
+-rw-r--r--   1 root root   265 Sep  5 01:06 jetbrains-pycharm.desktop
+-rw-r--r--   1 root root   289 Aug  2 06:12 jetbrains-studio.desktop
+drwxr-xr-x   2 root root  4096 Aug 14 13:54 [01;34mkde4[0m/
+-rw-r--r--   1 root root   439 Jan  9  2015 landscape-client-settings.desktop
+-rw-r--r--   1 root root   494 Sep 19  2014 language-selector.desktop
+-rw-r--r--   1 root root    73 Aug 22 01:42 lantern.desktop
+-rw-r--r--   1 root root 20689 Apr 24 02:48 libreoffice-base.desktop
+-rw-r--r--   1 root root 18040 Apr 24 02:48 libreoffice-calc.desktop
+-rw-r--r--   1 root root 16022 Apr 24 02:48 libreoffice-draw.desktop
+-rw-r--r--   1 root root 18695 Apr 24 02:48 libreoffice-impress.desktop
+-rw-r--r--   1 root root 15155 Apr 24 02:48 libreoffice-math.desktop
+lrwxrwxrwx   1 root root    50 Apr 24 04:26 [01;36mlibreoffice-startcenter.desktop[0m -> /usr/lib/libreoffice/share/xdg/startcenter.desktop
+-rw-r--r--   1 root root 20679 Apr 24 02:48 libreoffice-writer.desktop
+lrwxrwxrwx   1 root root    49 Apr 24 02:52 [01;36mlibreoffice-xsltfilter.desktop[0m -> /usr/lib/libreoffice/share/xdg/xsltfilter.desktop
+-rw-r--r--   1 root root   438 Dec 17  2013 mahjongg.desktop
+-rw-r--r--   1 root root 28605 Sep  5 01:06 mimeinfo.cache
+-rw-r--r--   1 root root   158 Feb 21  2014 mono-runtime-common.desktop
+-rw-r--r--   1 root root   168 Feb 21  2014 mono-runtime-terminal.desktop
+-rw-r--r--   1 root root   328 Jun 19 21:42 mount-archive.desktop
+-rw-r--r--   1 root root   398 Jun 19 21:42 nautilus-autorun-software.desktop
+-rw-r--r--   1 root root   472 Jun 19 21:42 nautilus-classic.desktop
+-rw-r--r--   1 root root   359 Jun 19 21:42 nautilus-connect-server.desktop
+-rw-r--r--   1 root root   688 Jun 19 21:42 nautilus.desktop
+-rw-r--r--   1 root root   452 Jun 19 21:42 nautilus-folder-handler.desktop
+-rw-r--r--   1 root root   500 Jun 19 21:42 nautilus-home.desktop
+-rw-r--r--   1 root root   391 Jul 15  2014 nm-applet.desktop
+-rw-r--r--   1 root root   433 Jul 15  2014 nm-connection-editor.desktop
+-rw-r--r--   1 root root   326 Apr  7  2014 onboard.desktop
+-rw-r--r--   1 root root   349 Apr  7  2014 onboard-settings.desktop
+-rw-r--r--   1 root root   495 Apr  1  2014 orca.desktop
+-rw-r--r--   1 root root   220 Jun 23 00:19 python2.7.desktop
+-rw-r--r--   1 root root   220 Jun 19 21:03 python3.4.desktop
+-rw-r--r--   1 root root   354 Apr  9  2014 qtcreator.desktop
+-rw-r--r--   1 root root   562 Jul 15  2013 remmina.desktop
+-rw-r--r--   1 root root  1152 Apr 29  2014 rhythmbox.desktop
+-rw-r--r--   1 root root   622 Apr 29  2014 rhythmbox-device.desktop
+-rw-r--r--   1 root root   169 Aug 13 01:48 robomongo.desktop
+-rw-r--r--   1 root root   507 Jan  8  2014 seahorse.desktop
+-rw-r--r--   1 root root   482 Mar 26 23:07 session-properties.desktop
+-rw-r--r--   1 root root   546 Oct 28  2014 shotwell.desktop
+-rw-r--r--   1 root root  1040 Oct 28  2014 shotwell-viewer.desktop
+-rw-r--r--   1 root root   248 Mar 13  2014 signon-ui-browser-process.desktop
+-rw-r--r--   1 root root   212 May  2  2014 simple-scan.desktop
+-rw-r--r--   1 root root  1901 Feb 19  2015 sk1.desktop
+-rw-r--r--   1 root root   327 Jan 21  2015 software-properties-drivers.desktop
+-rw-r--r--   1 root root   466 Jan 21  2015 software-properties-gnome.desktop
+-rw-r--r--   1 root root   597 Jan 21  2015 software-properties-gtk.desktop
+-rw-r--r--   1 root root   386 Jan 21  2015 software-properties-kde.desktop
+-rw-r--r--   1 root root   447 Mar 10  2014 sol.desktop
+-rwxr-xr-x   1 root root   515 Aug  2 07:49 [01;32msublime.desktop[0m*
+-rw-r--r--   1 root root   471 Jan 30  2015 system-config-printer.desktop
+-rw-r--r--   1 root root 10062 Jul 15 21:48 thunderbird.desktop
+-rw-r--r--   1 root root  3107 Apr  1  2014 totem.desktop
+-rw-r--r--   1 root root  4494 Jul 12  2014 transmission-gtk.desktop
+-rw-r--r--   1 root root   129 Apr 16  2014 ubuntu-amazon-default.desktop
+-rw-r--r--   1 root root   530 Apr 18  2014 ubuntu-software-center.desktop
+-rw-r--r--   1 root root   752 Jan 29  2015 unity-activity-log-manager-panel.desktop
+-rw-r--r--   1 root root   548 Jul 28 23:49 unity-appearance-panel.desktop
+-rw-r--r--   1 root root   361 Jul 28 23:49 unity-bluetooth-panel.desktop
+-rw-r--r--   1 root root   452 Jul 28 23:49 unity-color-panel.desktop
+-rw-r--r--   1 root root   272 Jul 28 23:49 unity-control-center.desktop
+-rw-r--r--   1 root root   402 Mar 16  2014 unity-credentials-panel.desktop
+-rw-r--r--   1 root root   411 Jul 28 23:49 unity-datetime-panel.desktop
+-rw-r--r--   1 root root   673 Apr  4  2014 unity-deja-dup-panel.desktop
+-rw-r--r--   1 root root   501 Jul 28 23:49 unity-display-panel.desktop
+-rw-r--r--   1 root root   674 Jul 28 23:49 unity-info-panel.desktop
+-rw-r--r--   1 root root   439 Jul 28 23:49 unity-keyboard-panel.desktop
+-rw-r--r--   1 root root   194 Mar 18  2014 unity-lens-photos.desktop
+-rw-r--r--   1 root root   492 Jul 28 23:49 unity-mouse-panel.desktop
+-rw-r--r--   1 root root   438 Jul 28 23:49 unity-network-panel.desktop
+-rw-r--r--   1 root root   462 Jul 28 23:49 unity-power-panel.desktop
+-rw-r--r--   1 root root   530 Jul 28 23:49 unity-region-panel.desktop
+-rw-r--r--   1 root root   177 Jul 23  2013 unity-scope-gdrive.desktop
+-rw-r--r--   1 root root   505 Jul 28 23:49 unity-screen-panel.desktop
+-rw-r--r--   1 root root   474 Jul 28 23:49 unity-sound-panel.desktop
+-rw-r--r--   1 root root  3873 Feb 21  2014 unity-tweak-tool.desktop
+-rw-r--r--   1 root root   608 Jul 28 23:49 unity-universal-access-panel.desktop
+-rw-r--r--   1 root root   481 Jul 28 23:49 unity-user-accounts-panel.desktop
+-rw-r--r--   1 root root   496 Jul 28 23:49 unity-wacom-panel.desktop
+-rw-r--r--   1 root root   179 Apr  8  2014 unitywebappsqmllauncher.desktop
+-rw-r--r--   1 root root   171 Mar 16  2014 update-accounts.desktop
+-rw-r--r--   1 root root   302 Apr 16 01:53 update-manager.desktop
+-rw-r--r--   1 root root   288 Apr 23 16:53 usb-creator-gtk.desktop
+-rw-r--r--   1 root root   265 Apr 23 16:53 usb-creator-kde.desktop
+-rw-r--r--   1 root root   474 Nov 18  2013 vino-preferences.desktop
+-rw-r--r--   1 root root   201 Mar 17  2014 virt-manager.desktop
+-rw-r--r--   1 root root  5510 Mar 26 08:13 vlc.desktop
+-rw-r--r--   1 root root   487 Apr 28  2014 webbrowser-app.desktop
+-rw-r--r--   1 root root  3327 Mar 11  2014 wireshark.desktop
+-rw-r--r--   1 root root   275 Mar 23  2014 xdiagnose.desktop
+-rw-r--r--   1 root root   207 Jan 29  2010 xsensors.desktop
+-rw-r--r--   1 root root   508 Mar 10  2014 yelp.desktop
+-rw-r--r--   1 root root   253 Apr 20 04:38 zeal.desktop
+]0;gaurav@gaurav-Lenovo-B480: /usr/share/applicationsgaurav@gaurav-Lenovo-B480:/usr/share/applications$ cd
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ sudo nautilus
+
+(nautilus:14070): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:2:16: Theming engine 'adwaita' not found
+
+(nautilus:14070): Gtk-WARNING **: Theme parsing error: gtk-widgets.css:1443:2: Missing name of pseudo-class
+
+(nautilus:14070): Gtk-WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(nautilus:14070): Gtk-WARNING **: Theme directory place/72 of theme MBuntu-OSX has no size field
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(nautilus:14070): Gtk-WARNING **: Failed to set text from markup due to error parsing markup: Error on line 1: Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;
+
+(sublime_text:14127): IBUS-WARNING **: The owner of /home/gaurav/.config/ibus/bus is not root!
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 1903 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 6412 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 6416 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 6435 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 6439 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 6476 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 6480 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 6492 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 6911 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 7470 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 10252 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 10258 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 10275 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 12078 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 12084 was not found when attempting to remove it
+
+(sublime_text:14127): GLib-CRITICAL **: Source ID 12093 was not found when attempting to remove it
+
+(nautilus:14070): GLib-CRITICAL **: Source ID 112 was not found when attempting to remove it
+
+(nautilus:14070): GLib-CRITICAL **: Source ID 113 was not found when attempting to remove it
+
+(nautilus:14070): GLib-CRITICAL **: Source ID 114 was not found when attempting to remove it
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+
+Script done on Saturday 05 September 2015 01:29:09 AM IST
