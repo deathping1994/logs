@@ -40,3 +40,174 @@ exit
 exit
 
 Script done on Thursday 03 September 2015 05:02:38 PM IST
+Script started on Thursday 03 September 2015 05:02:47 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit./pycharm.sh [K[K[K[K[K[K[K[K[K[K[K[K[Kcd ~/Desktop/
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ python scalp-0.4.py de
+default_filter.xml  desktop/            
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ python scalp-0.4.py de[9Pcd ~/Desktop/exit[K./pycharm.sh ll[K./pycharm.sh exit[Kcd ~/Desktop/D[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpython scalp-0.4.py de
+error: the log file doesn't exist
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ python scalp-0.4.py de[Cfault_filter.xml acce ss
+error: the log file doesn't exist
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ python scalp-0.4.py default_filter.xml accesss[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadefault_filter.xml acce[Cs[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccdefault_filter.xml access[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccdefault_filter.xml access[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cedefault_filter.xml a[Ccess[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csdefault_filter.xml access[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csdefault_filter.xml access[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C default_filter.xml access[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K
+error: the log file doesn't exist
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ ./scalp-0.4.py -l /var/log/httpd_log -f ./d efault_filter.xml -o ./scalp-output --html[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./def[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./defa[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./defau[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./defaul[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_f[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_fi[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_fil[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_filt[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_filte[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_filter[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_filter.[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_filter.x[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_filter.xm[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_filter.xml[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_filter.xml [1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f ./default_filter.xml -[1P[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca -f ./default_filter.xml [1@-[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc -f ./default_filter.xml[1@ [A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc -f ./default_filter.xm[1@l[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce -f ./default_filter.x[1@m[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs -f ./default_filter.[1@x[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs -f ./default_filter[1@.[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+bash: ./scalp-0.4.py: Permission denied
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ ./scalp-0.4.py -l access -f ./default_filterr.xml -o ./scalp-output --html[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs./scalp-0.4.py -l access -f ./default_filte[1@r[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [Cu./scalp-0.4.py -l access -f ./default_filt[1@e[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[Cd./scalp-0.4.py -l access -f ./default_fil[1@t[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[Co./scalp-0.4.py -l access -f ./default_fi[1@l[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C ./scalp-0.4.py -l access -f ./default_f[1@i[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ [C[C[C[C[C
+
+[sudo] password for gaurav: 
+sudo: ./scalp-0.4.py: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ sudo ./scalp-0.4.py -l access -f ./default_ffilter.xml -o ./scalp-output --html[A]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ ./scalp-0.4.py -l access -f ./default_filter[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kchmod 775 scalp-0.4.py 
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ chmod 775 scalp-0.4.py sudo ./scalp-0.4.py -l access -f ./default_ffilter.xml -o ./scalp-output --html
+The directory %s doesn't exist, scalp will try to create it
+Loading XML file './default_filter.xml'...
+The rule '(?i:(\%SYSTEMROOT\%))' cannot be compiled properly
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ sudo ./scalp-0.4.py -l access -f ./default_ffilter.xml -o ./scalp-output --html
+Loading XML file './default_filter.xml'...
+The rule '(?i:(\%SYSTEMROOT\%))' cannot be compiled properly
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ sudo ./scalp-0.4.py -l access -f ./default_ffilter.xml -o ./scalp-output --html
+Loading XML file './default_filter.xml'...
+Processing the file 'access'...
+Scalp results:
+	Processed 0 lines over 30961
+	Found 0 attack patterns in 0.428070 s
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ ex[K[Kcd
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ cd [Ksudo ./scalp-0.4.py -l access -f ./default_filter.xmml -o ./scalp-output --html[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [28Pchmod 775 scalp-0.4.py 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo ./scalp-0.4.py -l access -f ./default_filter.xmml -o ./scalp-output --html[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ ./scalp-0.4.py -l access -f ./default_filter.xml -o [5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [6Ppython scalp-0.4.py access default_filter.xml
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdefault_filter.xml access[K[9Pcd ~/Desktop/exit[K./pycharm.sh ll[Kscd binpycharm-community-4.5.4/exit[Ksvn checkout http://proxpy.googlecode.com/svn/trunk// proxpy-read-only[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [C[20Pudo apt-get install subversion
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvn checkout http://proxpy.googlecode.com/svn/trunk// proxpy-read-only[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [C[25Pudo rm ~/.recording.flag 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kpython udp-relay.py 15000:127.5.125.129:15000[6P27.5.125.129:15000[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd ~/Desktop/gnome-terminal[4Pcd ~/.gvfs[6Pbashterminalgsettings set org.gnome.desktop.default-applicationss.terminal exec 'gnome-terminal'[A[25Ppython post2.py bruteforce
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcat username.txt | grep "15103277"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo mount -t smbfs //fileserver2.pdc.jiit ~/Desktopp/fileserver[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [14Pmount -t smbfs //fileserver2.pdc.jiit
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pcat ~/Desktop/logs | grep %27[9Pls ~/Desktop/logs -l[2Pcat ~/Desktop/logslogs[Kpython ~/Desktop/scalp-0.4.py –l $HOME/Desktop/logs  –f filter.xml –o output –html[A[C[C[C[C[C[Cscalp-0.4.py –l $HOME/Desktop/logs –f filter.[10P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ cd[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpython scalp-0.4.py –l $HOME/Desktop/logs –f filter..xml –o output –html[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C~/Desktop/logs –f filter.xml [4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C–l~/Desktop/logs –f default_filtter.xml –o output –html[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ~/Desktop/logs –f default_fil[1@t[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clogs –f default_filter.xml –o[10P[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ cd ~/Desktop/[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cat ~/Desktop/logs | grep %27failure? | wc -l[Ksectok[2P.php[1P%3A[K00.php*.php[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Krhc godmode pro[K[Kort-forward
+[31mThe command 'rhc godmode port-forward' is not recognized.
+[0m
+See 'rhc help' for a list of valid commands.
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ h[Krhc help
+Usage: rhc [--help] [--version] [--debug] <command> [<args>]
+
+Command line interface for OpenShift.
+
+Getting started:
+  setup              Connects to OpenShift and sets up your keys and domain
+  create-app         Create an application
+  apps               List all your applications
+  cartridges         List available cartridges
+  add-cartridge      Add a cartridge to your application
+  set-env            Set one or more environment variable(s) to your application
+  logout             End the current session
+
+Working with apps:
+  tail               Tail the logs of an application
+  port-forward       Forward remote ports to the workstation
+  threaddump         Trigger a thread dump for JBoss and Ruby apps
+  snapshot           Save the current state of your application locally
+  git-clone          Clone and configure an application's repository locally
+
+Management commands:
+  account            Display details about your OpenShift account
+  alias              Add or remove a custom domain name for an app
+  app                Commands for creating and managing applications
+  authorization      Manage your authorization tokens
+  cartridge          Manage your application cartridges
+  deployment         Commands for deploying and managing deployments of an
+                     application
+  domain             Add or rename the container for your apps
+  env                Manages user-defined environment variables set on a given
+                     application
+  member             Manage membership on domains and teams
+  region             Display the regions and zones available on the OpenShift
+                     server
+  scp                SCP a file to or from your application
+  server             Manage your configured servers and check the status of
+                     services
+  ssh                SSH into the specified application
+  sshkey             Add and remove keys for Git and SSH
+  team               Create or delete a team
+
+  Some management commands have nested actions - run 'rhc help <command>' for
+more info.
+
+See 'rhc help <command>' for more information on a specific command.  You can
+see a list of all commands with 'rhc help commands'. See 'rhc help options' for
+a list of global command-line options and information about the config file.
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ rhc port[K[K[K[K[K[K[K[Kcd gor[Kdmode/
+]0;gaurav@gaurav-Lenovo-B480: ~/godmodegaurav@gaurav-Lenovo-B480:~/godmode$ rhc portforward
+[31mThe command 'rhc portforward' is not recognized.
+[0m
+See 'rhc help' for a list of valid commands.
+]0;gaurav@gaurav-Lenovo-B480: ~/godmodegaurav@gaurav-Lenovo-B480:~/godmode$ rhc portforward-forward
+Checking available ports ... [32mdone[0m
+Forwarding ports ...
+
+To connect to a service running on OpenShift, use the Local address
+
+Service Local                OpenShift
+------- --------------- ---- -------------------
+httpd   127.0.0.1:8080   =>  127.5.125.129:8080
+python  127.0.0.1:15000  =>  127.5.125.129:15000
+
+Press CTRL-C to terminate port forwarding
+/var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/transport/packet_stream.rb:89:in `next_packet': connection closed by remote host (Net::SSH::Disconnect)
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/transport/session.rb:183:in `block in poll_message'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/transport/session.rb:178:in `loop'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/transport/session.rb:178:in `poll_message'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/connection/session.rb:461:in `dispatch_incoming_packets'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/connection/session.rb:222:in `preprocess'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/connection/session.rb:206:in `process'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/connection/session.rb:170:in `block in loop'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/connection/session.rb:170:in `loop'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/connection/session.rb:170:in `loop'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh/connection/session.rb:119:in `close'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh.rb:217:in `ensure in start'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh.rb:217:in `start'
+	from /var/lib/gems/1.9.1/gems/rhc-1.36.4/lib/rhc/commands/port_forward.rb:125:in `block in run'
+	from /var/lib/gems/1.9.1/gems/net-ssh-2.9.2/lib/net/ssh.rb:215:in `start'
+	from /var/lib/gems/1.9.1/gems/rhc-1.36.4/lib/rhc/commands/port_forward.rb:86:in `run'
+	from /var/lib/gems/1.9.1/gems/rhc-1.36.4/lib/rhc/commands.rb:294:in `execute'
+	from /var/lib/gems/1.9.1/gems/rhc-1.36.4/lib/rhc/commands.rb:285:in `block (3 levels) in to_commander'
+	from /var/lib/gems/1.9.1/gems/commander-4.2.1/lib/commander/command.rb:180:in `call'
+	from /var/lib/gems/1.9.1/gems/commander-4.2.1/lib/commander/command.rb:180:in `call'
+	from /var/lib/gems/1.9.1/gems/commander-4.2.1/lib/commander/command.rb:155:in `run'
+	from /var/lib/gems/1.9.1/gems/commander-4.2.1/lib/commander/runner.rb:421:in `run_active_command'
+	from /var/lib/gems/1.9.1/gems/rhc-1.36.4/lib/rhc/command_runner.rb:72:in `run!'
+	from /var/lib/gems/1.9.1/gems/commander-4.2.1/lib/commander/delegates.rb:12:in `run!'
+	from /var/lib/gems/1.9.1/gems/rhc-1.36.4/lib/rhc/cli.rb:37:in `start'
+	from /var/lib/gems/1.9.1/gems/rhc-1.36.4/bin/rhc:20:in `<top (required)>'
+	from /usr/local/bin/rhc:23:in `load'
+	from /usr/local/bin/rhc:23:in `<main>'
+]0;gaurav@gaurav-Lenovo-B480: ~/godmodegaurav@gaurav-Lenovo-B480:~/godmode$ rhc port-forward[1Pforward[4Pcd godmode/[3Prhc helpgodmode port-forwardcd[Ksudo ./scalp-0.4.py -l access -f ./default_ffilter.xml -o ./scalp-output --html
+[sudo] password for gaurav: 
+sudo: ./scalp-0.4.py: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~/godmodegaurav@gaurav-Lenovo-B480:~/godmode$ cd
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ cd ~/Desktop/
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ cd ~/Desktop/[Ksudo ./scalp-0.4.py -l access -f ./default_ffilter.xml -o ./scalp-output --html
+sudo: ./scalp-0.4.py: command not found
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ cd[Khmod 755 scalp-0.4.py 
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ chmod 755 scalp-0.4.py sudo ./scalp-0.4.py -l access -f ./default_ffilter.xml -o ./scalp-output --html
+Loading XML file './default_filter.xml'...
+Processing the file 'access'...
+Traceback (most recent call last):
+  File "./scalp-0.4.py", line 563, in <module>
+    main(len(sys.argv), sys.argv)
+  File "./scalp-0.4.py", line 560, in main
+    scalper(access, filters, preferences)
+  File "./scalp-0.4.py", line 277, in scalper
+    if length(line)>1:
+NameError: global name 'length' is not defined
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ sudo ./scalp-0.4.py -l access -f ./default_ffilter.xml -o ./scalp-output --html
+Loading XML file './default_filter.xml'...
+Processing the file 'access'...
+Traceback (most recent call last):
+  File "./scalp-0.4.py", line 563, in <module>
+    main(len(sys.argv), sys.argv)
+  File "./scalp-0.4.py", line 560, in main
+    scalper(access, filters, preferences)
+  File "./scalp-0.4.py", line 278, in scalper
+    url = out.group(6)
+NameError: global name 'out' is not defined
+]0;gaurav@gaurav-Lenovo-B480: ~/Desktopgaurav@gaurav-Lenovo-B480:~/Desktop$ sudo ./scalp-0.4.py -l access -f ./default_ffilter.xml 
