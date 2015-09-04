@@ -4850,3 +4850,25 @@ KeyboardInterrupt
 exit
 
 Script done on Friday 04 September 2015 09:55:32 PM IST
+Script started on Friday 04 September 2015 09:55:43 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ git[K[K[Kcd Cyberoam-Brute/
+]0;gaurav@gaurav-Lenovo-B480: ~/Cyberoam-Brutegaurav@gaurav-Lenovo-B480:~/Cyberoam-Brute$ git add .
+]0;gaurav@gaurav-Lenovo-B480: ~/Cyberoam-Brutegaurav@gaurav-Lenovo-B480:~/Cyberoam-Brute$ git commit -m"" ""[CF"i"n"a"l" "c"o"m"m"i"t"[C
+[master 4b5006f] Final commit
+ 3 files changed, 2844 insertions(+), 2778 deletions(-)
+ create mode 100644 pass.txt
+]0;gaurav@gaurav-Lenovo-B480: ~/Cyberoam-Brutegaurav@gaurav-Lenovo-B480:~/Cyberoam-Brute$ p[Kgit push origin master
+Username for 'https://github.com': deayh     deathping1994	
+Password for 'https://deathping1994@github.com': 
+Counting objects: 8, done.
+Delta compression using up to 4 threads.
+Compressing objects:  20% (1/5)   Compressing objects:  40% (2/5)   Compressing objects:  60% (3/5)   Compressing objects:  80% (4/5)   Compressing objects: 100% (5/5)   Compressing objects: 100% (5/5), done.
+Writing objects:  20% (1/5)   Writing objects:  40% (2/5)   Writing objects:  60% (3/5)   Writing objects:  80% (4/5)   Writing objects: 100% (5/5)   Writing objects: 100% (5/5), 720 bytes | 0 bytes/s, done.
+Total 5 (delta 2), reused 0 (delta 0)
+To https://github.com/deathping1994/Cyberoam-Brute.git
+   c8906b6..4b5006f  master -> master
+]0;gaurav@gaurav-Lenovo-B480: ~/Cyberoam-Brutegaurav@gaurav-Lenovo-B480:~/Cyberoam-Brute$ cd
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ r[Kexit
+exit
+
+Script done on Friday 04 September 2015 09:57:08 PM IST
