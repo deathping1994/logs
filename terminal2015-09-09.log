@@ -3,3 +3,69 @@ Script started on Wednesday 09 September 2015 11:14:46 PM IST
 exit
 
 Script done on Wednesday 09 September 2015 11:14:50 PM IST
+Script started on Wednesday 09 September 2015 11:55:38 PM IST
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ ls
+123xt.txt                examples.desktop               [0m[01;34mopenbr[0m
+allocate.c               [01;34mfirstapp[0m                       [01;34mopencv[0m
+allocate.cpp             FORMATTED_DATE.txt             [01;34mpassage-solver[0m
+[34;42mAndroid[0m                  [01;34mgo[0m                             passwords.txt
+[01;34mAndroidStudioProjects[0m    [01;34mgodmode[0m                        password.txt
+[01;32ma.out[0m                    java_error_in_STUDIO_3797.log  [01;34mPictures[0m
+[01;34mbrute[0m                    java_error_in_STUDIO_4165.log  post2.py
+brute.py                 [01;34mkibana-4.1.1-linux-x64[0m         post.py
+[01;31mbrute.tar.gz[0m             [01;34mLibrary[0m                        [01;34mprograms[0m
+chlist.csv               log2.txt                       [01;34mPublic[0m
+chlist.csv~              [01;32mlogger.sh[0m                      [01;34mpycharm-4.5.4[0m
+[01;34mcordova-tutorial[0m         login.html                     [01;34mPycharmProjects[0m
+[01;34mcourierguy[0m               login.py                       que1.c
+[01;34mCyberoam-Brute[0m           [01;34mlogit[0m                          [01;34mTemplates[0m
+[01;34mDesktop[0m                  [01;34mlogs[0m                           [01;34mtemppp[0m
+[01;34mDirty_Big_Butt_Teachers[0m  log.txt                        [01;34mtmp[0m
+[01;34mDocuments[0m                [01;34mMusic[0m                          username2
+[01;34mDownloads[0m                [01;34mmwos-comp[0m                      username.txt
+even.c                   [01;34mmyflaskapp[0m                     [01;34mVideos[0m
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ cat logger.sh 
+FORMATTED_DATE=`/bin/date "+%Y-%m-%d%H%M%S"`;/usr/bin/script  ~/Library/Logs/Terminal/terminal_$FORMATTED_DATE.log
+/bin/bash --no-profile --no-rc]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ ./log[K[K[K[K[K./loggg[Ker.sh 
+Script started, file is /home/gaurav/Library/Logs/Terminal/terminal_2015-09-09235950.log
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ ps
+  PID TTY          TIME CMD
+11042 pts/17   00:00:00 bash
+11054 pts/17   00:00:00 ps
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ ps -a
+  PID TTY          TIME CMD
+10832 pts/0    00:00:00 script
+10833 pts/0    00:00:00 script
+11038 pts/7    00:00:00 bash
+11040 pts/7    00:00:00 script
+11041 pts/7    00:00:00 script
+11055 pts/17   00:00:00 ps
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+Script done, file is /home/gaurav/Library/Logs/Terminal/terminal_2015-09-09235950.log
+/bin/bash: --no-profile: invalid option
+Usage:	/bin/bash [GNU long option] [option] ...
+	/bin/bash [GNU long option] [option] script-file ...
+GNU long options:
+	--debug
+	--debugger
+	--dump-po-strings
+	--dump-strings
+	--help
+	--init-file
+	--login
+	--noediting
+	--noprofile
+	--norc
+	--posix
+	--rcfile
+	--restricted
+	--verbose
+	--version
+Shell options:
+	-ilrsD or -c command or -O shopt_option		(invocation only)
+	-abefhkmnptuvxBCHP or -o option
+]0;gaurav@gaurav-Lenovo-B480: ~gaurav@gaurav-Lenovo-B480:~$ exit
+exit
+
+Script done on Thursday 10 September 2015 12:00:19 AM IST
